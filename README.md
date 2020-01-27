@@ -9,7 +9,7 @@ and output.
 
 # Investigation 2 Blocks
 
-Can separate blocks be specied in C++, and if so, how is variable scoping handled? Show
+Can separate blocks be specifed in C++, and if so, how is variable scoping handled? Show
 coded examples and output.
 
 # Investigation 3 Arrays
